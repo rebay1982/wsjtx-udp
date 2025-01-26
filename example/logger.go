@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/rebay1982/wsjtx-udp/pkg/wsjtxudp"
+	"github.com/rebay1982/wsjtx-udp"
 	"net"
 	"os"
 )
